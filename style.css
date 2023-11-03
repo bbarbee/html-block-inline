@@ -1,0 +1,15 @@
+body{
+    background-image: url(images/VOGUE_RM\ Indigo_RGB.webp), url(images/bts-rm-indigo-3.jpg);
+    background-position: right bottom, left top;
+    background-repeat: no-repeat, repeat;
+    background-size: 25%, cover;
+    padding: 15px;
+
+
+    /* fonts */
+
+    font-family: sans-serif;
+    color: white;
+    font-weight: 300;
+
+}
